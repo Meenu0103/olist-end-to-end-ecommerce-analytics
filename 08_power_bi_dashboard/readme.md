@@ -14,13 +14,19 @@
 
 ### 2. Marketing Funnel Performance Dashboard
 - End-to-end seller acquisition funnel
-- MQL → Closed deal conversion
+- MQL -> Closed deal conversion
 - Lead origin effectiveness
 - Revenue quality of acquired sellers
 
-## Files
-- olist_ecommerce_and_marketing.pbix
+## Power BI Dashboard File
 
+Due to GitHub file size limitations, the Power BI (.pbix) file is hosted externally.
+
+ **Download the Power BI file:**  
+https://drive.google.com/file/d/1WyEbXfnjtPsp585WbYf2958CJfNYwOzj/view?usp=drive_link
+
+-> Open the file using Power BI Desktop to explore all interactions and filters.
+ 
 ## Screenshots
 
 ### E-Commerce Dashboard (Preview)
