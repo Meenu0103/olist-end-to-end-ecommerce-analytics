@@ -25,10 +25,10 @@
 
 ### E-Commerce Dashboard (Preview)
 
-![E-Commerce Dashboard – Summary](screenshots/ecommerce/summary.png)
+![E-Commerce Dashboard - Summary](screenshots/ecommerce/Summary.png)
 
 - [View ecommerce dashboard screenshots](screenshots/ecommerce/)
 
 ### Marketing Funnel Dashboard
-- [View marketing funnel dashboard screenshot](screenshots/marketing_funnel/)
+- [View marketing funnel dashboard screenshot](screenshots/marketing/)
 
